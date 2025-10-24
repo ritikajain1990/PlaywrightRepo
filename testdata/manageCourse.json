@@ -1,0 +1,8 @@
+{
+    "filepath": "./testdata/Sample.png",
+    "courseName": "Selenium with Playwright",
+    "description": "This is a course for beginners",
+    "instructorName": "John Doe",
+    "price": "99.99",
+    "category": "Cypress"
+}
