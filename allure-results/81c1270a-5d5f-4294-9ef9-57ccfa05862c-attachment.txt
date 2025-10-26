@@ -1,9 +1,0 @@
-Running before test
-Running before test with Json
-Reading json file
-Running before test with Course Json
-Reading json file
-Running during test
-Navigating to the course page
-Running after test
-Running after test
